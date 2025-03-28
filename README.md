@@ -2,7 +2,8 @@
 ## Grocery Store
 ### A full-stack grocery delivery e-commerce platform inspired by instant delivery services, built with modern web technologies.
 
-![image](https://github.com/user-attachments/assets/f3bb3e39-337f-4831-9494-eee716f57425)
+![image]![image](https://github.com/user-attachments/assets/400b58d9-548e-4be6-acd6-7eaae4cbebc2)
+
 
 
 
@@ -15,7 +16,7 @@
 
 - **Order Management** – Place orders & track order history
 
-- **Search & Filters – Find products quickly with search and category filters
+- **Search & Filters** – Find products quickly with search and category filters
 
 - **Admin Dashboard** – Manage products, categories, and orders (Admin-only access)
 
@@ -40,7 +41,7 @@
 - **JWT (Authentication)**
 
 - **Cloudinary (Image upload for products)**
--  **Resens API**
+-  **Resend API**
 - **Stripe**
   
 
@@ -106,10 +107,14 @@ VITE_API_URL = http://localhost:8080
 
 📸 Screenshots
 
-![image](https://github.com/user-attachments/assets/f1ef272d-8441-4c62-9946-7a7fd1590992)
-![image](https://github.com/user-attachments/assets/f6b5dbc1-29d5-4637-9b75-a7166e372622)
-![image](https://github.com/user-attachments/assets/050ab50f-f499-4c0c-817e-9576518d9d98)
-![image](https://github.com/user-attachments/assets/f056211f-9e1a-43cb-9427-11b727d31cbb)
+![image](![image](https://github.com/user-attachments/assets/78a5a3f3-5fb7-4fdb-a503-11fa2567039b)
+
+![image](![image](https://github.com/user-attachments/assets/46d4092a-5ce9-4637-916e-8da2aa4a9979)
+
+![image](![image](https://github.com/user-attachments/assets/4927f42b-1292-42a4-9c62-29314865e082)
+
+![image](![image](https://github.com/user-attachments/assets/47cb06b1-7c6e-4f79-9525-8b13ee3559a3)
+
 
 
 
