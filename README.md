@@ -2,7 +2,7 @@
 ## Grocery Store
 ### A full-stack grocery delivery e-commerce platform inspired by instant delivery services, built with modern web technologies.
 
-[image](https://github.com/user-attachments/assets/400b58d9-548e-4be6-acd6-7eaae4cbebc2)
+![image](https://github.com/user-attachments/assets/400b58d9-548e-4be6-acd6-7eaae4cbebc2)
 
 
 
@@ -107,10 +107,10 @@ VITE_API_URL = http://localhost:8080
 
 📸 Screenshots
 
-(![image](https://github.com/user-attachments/assets/78a5a3f3-5fb7-4fdb-a503-11fa2567039b)
-(![image](https://github.com/user-attachments/assets/46d4092a-5ce9-4637-916e-8da2aa4a9979)
-(![image](https://github.com/user-attachments/assets/4927f42b-1292-42a4-9c62-29314865e082)
-(![image](https://github.com/user-attachments/assets/47cb06b1-7c6e-4f79-9525-8b13ee3559a3)
+![image](https://github.com/user-attachments/assets/78a5a3f3-5fb7-4fdb-a503-11fa2567039b)
+![image](https://github.com/user-attachments/assets/46d4092a-5ce9-4637-916e-8da2aa4a9979)
+![image](https://github.com/user-attachments/assets/4927f42b-1292-42a4-9c62-29314865e082)
+![image](https://github.com/user-attachments/assets/47cb06b1-7c6e-4f79-9525-8b13ee3559a3)
 
 
 
